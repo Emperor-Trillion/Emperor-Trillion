@@ -10,7 +10,7 @@
 - 🌱 Constantly expanding my knowledge in Python, C++, Java, PHP, C#, and more.
 - 💬 Ask me about machine learning, speech technologies!
 - 📍 Based in Lithuania 🇱🇹
-- 📫 Reach me: [@sundayysanni](https://github.com/sundayysanni)
+- 📫 Reach me: [@Emperor-Trillion)](https://github.com/Emperor-Trillion)
 
 ---
 
@@ -25,7 +25,7 @@
 ## 🌱 Let's Connect!
 
 - GitHub: [@Emperor-Trillion](https://github.com/Emperor-Trillion)
-- Twitter: [@sundayysanni](https://x.com/TrillionByte)
+- Twitter: [@TrillionByte](https://x.com/TrillionByte)
 - LinkedIn: [(https://www.linkedin.com/in/sannisundayemmanuel)
 
 
